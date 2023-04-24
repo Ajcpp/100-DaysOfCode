@@ -19,10 +19,4 @@ public class Day6 {
 
     }
 }
-//Test cases
-//for str
-//it print "Hello there"
-//for str2
-//it take the input from user
-//ex:: I am Ankush
-//then it prints "Ankush"
+
